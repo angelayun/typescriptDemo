@@ -1,0 +1,23 @@
+{
+  "name": "typescriptDemo",
+  "version": "0.0.1",
+  "description": "just typescript test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelayun/typescriptDemo.git"
+  },
+  "keywords": [],
+  "author": "angelayun <angelayun666@gmail.com> (https://github.com/angelayun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelayun/typescriptDemo/issues"
+  },
+  "homepage": "https://github.com/angelayun/typescriptDemo#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.2"
+  }
+}
